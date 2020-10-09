@@ -1,4 +1,4 @@
-## Welcome to my Github profile!
+## Welcome to my Github profile! 💪
 
 - 📊 I’m currently working in Data Analytics
 - 💻 I’m currently trying to create a blog
